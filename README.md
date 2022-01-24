@@ -67,7 +67,7 @@ some_random_dir/ # the name of this dir doesn't matter
 .
 ```
 
-If you are using GitHub, you can easily create this directory structure by using [this template][2].  Otherwise, you can copy the directory structure in this repo and modify it as indicated below.
+If you are using GitHub, you can easily create this directory structure by using [this template][2].  Otherwise, you can copy the directory structure in [the template](https://github.com/outerbounds/metaflow-card-template) and modify it as indicated below.
 
 _Note: Metaflow cards are distributed via [namespace packages](https://packaging.python.org/en/latest/guides/packaging-namespace-packages/), under the namespace `metaflow_extensions`.  You need not worry about the mechanics of namespace packages to distribute or publish your own card module!  We recommend just following the directory structure indicated above._
 
@@ -138,8 +138,6 @@ You are now ready to publish your card to pyipi.  If you have are not familiar w
 Now its time to let people know about your card!  You can make a [PR to this README][3] as well as letting us know on Twitter, tagging [@MetaflowOSS](https://twitter.com/MetaflowOSS).
 
 
-# TODO Update these links (hidden)
-
 [1]: https://docs.metaflow.org/
-[2]: https://docs.metaflow.org/
-[3]: https://docs.metaflow.org/
+[2]: https://github.com/outerbounds/metaflow-card-template/generate
+[3]: https://github.com/outerbounds/awesome-metaflow/edit/main/README.md

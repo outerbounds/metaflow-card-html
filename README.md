@@ -129,6 +129,8 @@ def train(self):
     self.html = some_html() # set some html to the self attribute
 ```
 
+We recommend setting up automated tests in CI if possible.  Take a look at [tests/](tests/) and [.github/workflows/](.github/workflows/) for an example.  This is optional.
+
 ## Step 5: Publish Your Card
 
 You are now ready to publish your card to pyipi.  If you have are not familiar with how to do this, you can follow the steps in [this tutorial](https://realpython.com/pypi-publish-python-package/).  For a more in-depth discussion on python packaging, you can read [this article](https://packaging.python.org/tutorials/packaging-projects/).

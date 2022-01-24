@@ -2,7 +2,7 @@
 
 Render raw HTML as a [Metaflow card][1].
 
-You can install this card via :
+## Installation
 
 ```bash
 pip install metaflow-card-html

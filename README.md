@@ -138,7 +138,7 @@ You are now ready to publish your card to pyipi.  If you have are not familiar w
 Now its time to let people know about your card!  You can make a [PR to this README][3] as well as letting us know on Twitter, tagging [@MetaflowOSS](https://twitter.com/MetaflowOSS).
 
 
-# TODO Update these links
+# TODO Update these links (hidden)
 
 [1]: https://docs.metaflow.org/
 [2]: https://docs.metaflow.org/

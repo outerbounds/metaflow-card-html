@@ -9,7 +9,7 @@ jobs:
         py:  [3.6, 3.7, 3.8]
     runs-on: ubuntu-latest
     steps:
-    - name: actions/checkout@v2
+    - uses: actions/checkout@v2
     - name: Set up Python
       uses: actions/setup-python@v2
       with:

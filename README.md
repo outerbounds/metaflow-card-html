@@ -1,5 +1,7 @@
 # HTML Metaflow Card
 
+[![Test Flow](https://github.com/outerbounds/metaflow-card-html/actions/workflows/test.yaml/badge.svg)](https://github.com/outerbounds/metaflow-card-html/actions/workflows/test.yaml)
+
 Render raw HTML as a [Metaflow card][1].
 
 ## Installation

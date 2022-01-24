@@ -30,7 +30,7 @@ def some_html():
     return "<html><body><h1 style='color: blue'>Hello World</h1></body></html>"
 ```
 
-However, you may want to use a different attribute name than `html`.  To accomplish this, you can use the `options` parameter of the `@card` decorator.  For example, if we wanted to store our HTML in an attribute named `mythml` we would do the following:
+However, you may want to use a different attribute name than `html`.  To accomplish this, you can use the `options` parameter of the `@card` decorator.  For example, if we wanted to store our HTML in an attribute named `myhtml` we would do the following:
 
 ```python
 @card(type='html',options={"attribute":"myhtml"}) # set the attribute name to myhtml

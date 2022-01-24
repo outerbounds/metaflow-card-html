@@ -1,5 +1,8 @@
 .DS_STORE
 build/
 dist/
+.metaflow
+metaflow_card_cache/
 *.egg-info/
 !.gitignore
+!.github

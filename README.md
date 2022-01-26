@@ -1,6 +1,6 @@
-# HTML Metaflow Card
+[![Test Flow](https://github.com/outerbounds/metaflow-card-html/actions/workflows/test.yaml/badge.svg)](https://github.com/outerbounds/metaflow-card-html/actions/workflows/test.yaml) [![](https://img.shields.io/pypi/v/metaflow-card-html)](https://pypi.org/project/metaflow-card-html/)  [![](https://img.shields.io/badge/slack-@outerbounds-purple.svg?logo=slack )](http://slack.outerbounds.co/)  
 
-[![Test Flow](https://github.com/outerbounds/metaflow-card-html/actions/workflows/test.yaml/badge.svg)](https://github.com/outerbounds/metaflow-card-html/actions/workflows/test.yaml)
+# HTML Metaflow Card
 
 Render raw HTML as a [Metaflow card][1].
 

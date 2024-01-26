@@ -6,12 +6,12 @@ def get_long_description() -> str:
 
 setup(
     name="metaflow-card-html",
-    version="1.0.1",
+    version="1.0.2",
     description="A metaflow card that renders HTML inputs.",
     long_description=get_long_description(),
     long_description_content_type="text/markdown",
     author="Outerbounds",
-    author_email="hamel@outerbounds.co",
+    author_email="ville@outerbounds.co",
     license="Apache Software License 2.0",
     packages=find_namespace_packages(include=['metaflow_extensions.*']),
     include_package_data=True,

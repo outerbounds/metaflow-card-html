@@ -1,4 +1,4 @@
-from metaflow.cards import MetaflowCard
+from metaflow.plugins.cards.card_modules.card import MetaflowCard
 
 DEFAULT = "<html><body>no html specified</body></html>"
 
